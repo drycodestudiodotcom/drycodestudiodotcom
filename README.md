@@ -23,13 +23,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
 </p>
-
+<br>
+   
+   &nbsp;
+ 
    <p align="center">
    &nbsp;&#10022; 𝐌𝐲 𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐠𝐨𝐚𝐥 𝐢𝐬 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐀𝐧𝐝 𝐋𝐞𝐭'𝐬 𝐭𝐚𝐥𝐤 𝐚𝐛𝐨𝐮𝐭 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐥𝐨𝐧𝐠 𝐰𝐢𝐭𝐡 𝐢𝐭𝐬 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 &nbsp;&#10022;
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    </p>
 
  </div>
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
