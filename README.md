@@ -6,22 +6,16 @@
  
  <img src="./images/DRY3.png" align="left">
  
-   <img src="./images/DRY4.png">
-    <br>
-    
-### 🔹𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝ㅤㅤㅤㅤㅤㅤㅤ
+ <img src="./images/DRY2.png" alt="html5" width="120" height="50"/>
+       
+### 🔹𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝ㅤand &nbsp;🔹𝐁𝐚𝐜𝐤𝐞𝐧𝐝ㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/Css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html5.png"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-</p>
-
-### 🔹𝐁𝐚𝐜𝐤𝐞𝐧𝐝ㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
 
 ### 🔹𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
@@ -35,3 +29,7 @@
    </p>
 
  </div>
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
