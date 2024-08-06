@@ -22,10 +22,10 @@
     <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
 </p>
 
-### 🔹𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬ㅤㅤㅤㅤㅤㅤㅤㅤ
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
 </p>
 
    &nbsp;&#10022; 𝐌𝐲 𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐠𝐨𝐚𝐥 𝐢𝐬 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐀𝐧𝐝 𝐋𝐞𝐭'𝐬 𝐭𝐚𝐥𝐤 𝐚𝐛𝐨𝐮𝐭 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐥𝐨𝐧𝐠 𝐰𝐢𝐭𝐡 𝐢𝐭𝐬 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 &nbsp;&#10022;
