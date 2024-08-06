@@ -2,7 +2,7 @@
 <div style=" font-size: medium; color: #447ff7" align=center>
 
 <p  align="center">
-<img src="./images/DRY.png">         
+<img src="./images/dry-code.png">         
 <br><br>
 
  <img src="./images/DRY2.png" width="100">
