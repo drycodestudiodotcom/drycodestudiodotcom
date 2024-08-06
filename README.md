@@ -11,7 +11,6 @@
 <p style="padding:10px;">
     <a href="https://www.w3schools.com/Css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 </p>
 
 ### 🔹𝐁𝐚𝐜𝐤𝐞𝐧𝐝ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
